@@ -1,0 +1,274 @@
+ 
+#mycanvas {
+    border: 5px solid #cc9966;
+    background-color: rgb(249, 241, 223);
+    cursor: url("cursor.cur"), auto;
+  }
+   
+  #dem {
+    background-image: url("media/Palette.jpg");
+    background-position: center;
+    padding: 5px 5px;
+  }
+   
+  #fart {
+    border: 3px solid black;
+    width: 110px;
+    text-align: center;
+    background-image: url("media/Palette.jpg");
+  }
+   
+  button {
+    height: 15px;
+  }
+   
+  #colorPicker {
+    margin-top: 7px;
+  }
+   
+  body {
+    background-image: url("media/BackG.jpg");
+    background-repeat: no-repeat;
+    margin: auto;
+    background-size: cover;
+  }
+   
+  .funnar {
+    background-color: rgb(249, 241, 223);
+    width: 730px;
+    padding: 20px;
+    border: 2px solid black;
+  }
+   
+  .The {
+    color: rgb(24, 24, 119);
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+   
+  .joy {
+    font-family: "Condiment", cursive;
+    color: rgb(24, 24, 119);
+    font-size: 40px;
+  }
+   
+  .nirvana {
+    font-family: "Caveat", cursive;
+    color: rgb(224, 0, 0);
+    font-size: 30px;
+  }
+   
+  .dingdong {
+    background-color: hsla(34, 100%, 76%, 0.603);
+    border-bottom: 1px solid grey;
+    padding-top: 5px;
+    height: 220px;
+    width: 100%;
+  }
+   
+  .limes {
+    font-family: "Damion", cursive;
+    font-size: 30px;
+    color: rgb(255, 102, 46);
+  }
+   
+  iframe {
+    margin-bottom: 40px;
+  }
+   
+  .frogLegs {
+    background-image: url(media/Palette.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 650px;
+    border: 10px solid rgb(212, 173, 114);
+    margin-top: 10px;
+    text-align: left;
+    border-radius: 30px;
+    display: revert;
+  }
+   
+  .mainDiv {
+    width: 1150px;
+    background: rgb(0, 0, 0);
+    padding-top: 100px;
+    border-left: 4px solid rgb(77, 77, 77);
+    border-bottom: 4px solid rgb(77, 77, 77);
+    border-right: 4px solid rgb(77, 77, 77);
+    padding-bottom: 95px;
+    margin-bottom: 150px;
+  }
+   
+  .Beter {
+    font-family: "Caveat", cursive;
+    font-size: 40px;
+    color: #fdfdda;
+  }
+   
+  .educatedMan {
+    font-family: "Nothing You Could Do", cursive;
+    text-align: center;
+    color: #fdfdda;
+    font-size: 50px;
+  }
+   
+  .howl {
+    text-align: center;
+  }
+   
+  #d1 {
+    margin-right: 30px;
+  }
+   
+  li {
+    font-size: 25px;
+    text-align: left;
+  }
+   
+  .help {
+    text-align: left;
+  }
+   
+  .hide {
+    display: none;
+  }
+   
+  #helpp {
+    padding-bottom: 15px;
+    border-radius: 50%;
+    border-color: black;
+    width: 24px;
+    background-color: grey;
+    outline: none;
+    cursor: pointer;
+  }
+   
+  #helpp:active {
+    background: rgb(94, 94, 94);
+  }
+   
+  #erase {
+    padding-bottom: 15px;
+    border-radius: 50%;
+    border-color: black;
+    width: 24px;
+    background-color: red;
+    outline: none;
+    cursor: pointer;
+  }
+   
+  #erase:active {
+    background-color: rgb(180, 0, 0);
+  }
+   
+  #save {
+    padding-bottom: 15px;
+    border-radius: 50%;
+    border-color: black;
+    background-color: lightskyblue;
+    outline: none;
+    cursor: pointer;
+    font-family: wingdings;
+  }
+  #save:active {
+    background-color: rgb(124, 187, 212);
+  }
+   
+  .c1 {
+    background-color: #4e1500;
+    cursor: pointer;
+  }
+   
+  .c2 {
+    background-color: #0a3410;
+    cursor: pointer;
+  }
+   
+  .c3 {
+    background-color: #221b15;
+    cursor: pointer;
+  }
+   
+  .c4 {
+    background-color: #5f2e1f;
+    cursor: pointer;
+  }
+   
+  .c5 {
+    background-color: #000000;
+    cursor: pointer;
+  }
+   
+  .c6 {
+    background-color: #021e44;
+    cursor: pointer;
+  }
+   
+  .c7 {
+    background-color: #0c0040;
+    cursor: pointer;
+  }
+   
+  .c8 {
+    background-color: #102e3c;
+    cursor: pointer;
+  }
+   
+  .c9 {
+    background-color: #ffec00;
+    cursor: pointer;
+  }
+   
+  .c10 {
+    background-color: #c79b00;
+    cursor: pointer;
+  }
+   
+  .c11 {
+    background-color: #ffb800;
+    cursor: pointer;
+  }
+   
+  .c12 {
+    background-color: #db0000;
+    cursor: pointer;
+  }
+   
+  .c13 {
+    background-color: #ffffff;
+    cursor: pointer;
+  }
+   
+  #colorPicker {
+    cursor: pointer;
+  }
+   
+  #bobSagget{
+    padding-bottom: 20px;
+    border-radius: 50%;
+    border-color: black;
+    background-color: rgb(208, 255, 0);
+    outline: none;
+    cursor: pointer;
+    font-family: wingdings;
+  }
+   
+  #bobSagget:active{
+background-color: rgb(137, 168, 0);
+  }
+   
+  .galleryPainting{
+    display: none;
+  }
+   
+  .slideshow-container {
+    max-width: 1000px;
+    position: center;
+    margin: auto;
+  }
+   
+  .jumpinjellyfish{
+    font-family: wingdings;
+  }
+  
